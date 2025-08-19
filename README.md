@@ -12,7 +12,7 @@
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">I am a Data Science Student and Machine Learning Enthusiast with a huge love for Python, Java, React.js, RDBMS and Data Visualization. </p>
+<p align="left">Data Science student learning Python, Java, React.js, RDBMS, and Data Visualization. Passionate about Data Analysis and AI Engineering. </p>
 
 - ✨ Student of life :)
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
