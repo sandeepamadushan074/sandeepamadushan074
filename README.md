@@ -16,7 +16,7 @@
 
 - ✨ Student of life :)
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
-- 👨‍💻 I’m currently studying **Data Science Degree in SUSL**
+- 🎓 I’m currently studying a BSc (Hons) in Data Science at Sabaragamuwa University of Sri Lanka (SUSL)
 - ❤ Contributing to Open Source.
 - 💻 Visit my [Portfolio](https://github.com/sandeepamadushan074) for more details about me.
 <!--End Intro-->
