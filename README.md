@@ -40,9 +40,11 @@
 
 <h3 align="left">Current Learning</h3>
 <ul align="left">
-  <li>Deepening my knowledge in Machine Learning and Data Analysis.</li>
-  <li>Learning Web Development and App Development techniques.</li>
-  <li>Improving my skills in cloud computing with AWS and Azure.</li>
+<li>Building a strong foundation in programming with Python and Java.</li>
+<li>Learning the basics of Data Analysis and Visualization.</li>
+<li>Exploring introductory concepts in Machine Learning.</li>
+<li>Developing beginner-level skills in Web Development.</li>
+<li>Getting familiar with cloud platforms like AWS and Azure.</li>
 </ul>
   
 <br />
