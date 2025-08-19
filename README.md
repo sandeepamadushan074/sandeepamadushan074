@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sandeepa Madushan</h1>
 <h3 align="center">Data Science student on a journey to become an AI Engineer</h3>
-![gif](https://github.com/sandeepamadushan074/sandeepamadushan074/blob/master/about.gif)
+<img align="right" src="https://raw.githubusercontent.com/gabrlcj/gabrlcj/2aa161dfb942e25ec84396721837dfccc98e08f2/Illustration.svg" alt="Illustration" title="Illustration Storyset" width=450/>
+    
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandeepamadushan074&label=Profile%20views&color=0e75b6&style=flat" alt="sandeepamadushan074" /> </p>
 
