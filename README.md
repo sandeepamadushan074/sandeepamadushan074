@@ -1,5 +1,6 @@
-
-[![Subranium's github stats])](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepamadushan074&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+<h1 align="center">Hi 👋, I'm Sandeepa Madushan</h1>
+<h3 align="center">Data Science student on a journey to become an AI Engineer</h3>
+![gif](https://github.com/sandeepamadushan074/sandeepamadushan074/blob/master/about.gif)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandeepamadushan074&label=Profile%20views&color=0e75b6&style=flat" alt="sandeepamadushan074" /> </p>
 
