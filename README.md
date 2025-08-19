@@ -178,7 +178,7 @@
 <img src="./gmail.png" width=50 height=50 alt="sandeepamadushan074@gmail.com" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://x.com/kiran__a__n" target="_blank">
+<a href="https://www.facebook.com/sujeewa.sirisena.56" target="_blank">
 <img src="./facebook.png" width=50 height=50 alt="kiran__a__n" style="margin-bottom: 5px;" />
 </a>
 
