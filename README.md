@@ -179,7 +179,7 @@
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
   
-<a href="mailto:sandeepamadushan074@gmail.com" target="_blank">
+<a href="https://mail.google.com/mail/u/0/#sent?compose=new" target="_blank">
 <img src="./gmail.png" width=50 height=50 alt="sandeepamadushan074@gmail.com" style="margin-bottom: 5px;" />
 </a>
 
