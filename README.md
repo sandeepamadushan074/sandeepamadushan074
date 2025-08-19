@@ -1,6 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sandeepa Madushan</h1>
-<h3 align="center">Data Science student on a journey to become an AI Engineer</h3>
-[![Subranium's github stats](https://github-readme-stats.vercel.app/api?username=SuperSupeng&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuperSupeng&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Subranium's github stats](https://github-readme-stats.vercel.app/api?username=sandeepamadushan074&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuperSupeng&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandeepamadushan074&label=Profile%20views&color=0e75b6&style=flat" alt="sandeepamadushan074" /> </p>
 
