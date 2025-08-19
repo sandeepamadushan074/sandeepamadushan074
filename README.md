@@ -179,10 +179,9 @@
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
   
-<a href="mailto:sandeepamadushan074@gmail.com">
-  <img src="./gmail.png" width="50" height="50" alt="Email Me" style="margin-bottom: 5px;" />
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=sandeepamadushan074@gmail.com" target="_blank">
+  <img src="./gmail.png" width="50" height="50" alt="Email Me" style="margin-bottom: 5px;">
 </a>
-
 
 <a href="https://www.facebook.com/sujeewa.sirisena.56" target="_blank">
 <img src="./facebook.png" width=50 height=50 alt="kiran__a__n" style="margin-bottom: 5px;" />
